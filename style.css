@@ -1,3 +1,18 @@
-.animation-area{
-  backround: linear-gradient(to left, #8942a8, #ba382f);
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  font-family: Baloo;
+  
+}
+.banner-text{
+  width: 100%;
+  posistion: absolute;
+  
+}
+.banner-text ul{
+  height: 50px;
+  float: right;
 }
