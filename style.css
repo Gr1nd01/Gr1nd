@@ -135,4 +135,5 @@ body{
 .button-solid{
     border:none; outline: none;
     font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
 }
